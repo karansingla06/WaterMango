@@ -10,11 +10,8 @@ To run frontend app-
 
 
 To run backend app-
-1. Build solution
-
-2. setup initial db and run migrations-
+1. setup initial db and run migrations-
 Go to Nuget Package Manager Console ->
 ```Update-Database```
-
-3. Run the app
+2. Build solution and Run the app
 
