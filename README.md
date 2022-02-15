@@ -19,3 +19,6 @@ Go to Nuget Package Manager Console -> <br>
 ```Update-Database```
 2. Build solution and Run the app
 
+
+visit http://localhost:4200/ and enjoy watering the mango plants :)
+
