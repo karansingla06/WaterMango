@@ -4,8 +4,8 @@
 Used Visual Studio 2019, Visual studio Code, MS Sql Server 2019 Express
 
 To run frontend app- 
-```cd WaterMangoUI```
-```npm i```
+```cd WaterMangoUI``` <br>
+```npm i``` <br>
 ```ngserve --o```
 
 
