@@ -1,5 +1,5 @@
 # WaterMango
-.NET5, Angular 11 app
+Stack: .NET5, Angular 11, MSSql
 
 Used Visual Studio 2019, Visual studio Code, MS Sql Server 2019 Express <br>
 
