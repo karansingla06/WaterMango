@@ -14,7 +14,9 @@ To run frontend app-<br>
 
 
 To run backend app-
-1. setup initial db and run migrations-
+1. ```cd WaterMangoApi```
+2. Open the WaterMango.csproj in Visual studio
+3. setup initial db and run migrations-
 Go to Nuget Package Manager Console -> <br>
 ```Update-Database```
 2. Build solution and Run the app
