@@ -3,6 +3,8 @@
 
 Used Visual Studio 2019, Visual studio Code, MS Sql Server 2019 Express
 
+Extract the WaterMangoProject.zip
+
 To run frontend app- 
 ```cd WaterMangoUI``` <br>
 ```npm i``` <br>
